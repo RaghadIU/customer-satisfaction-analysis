@@ -1,0 +1,46 @@
+# Customer Satisfaction Analysis & Prediction
+
+## Project Overview
+This project simulates a customer satisfaction analysis for a telecom company. It includes:
+
+- Generation of fake customer data
+- Exploratory Data Analysis (EDA) with visualizations
+- Group-based analysis
+- Training a machine learning model to predict customer satisfaction rating
+- An interactive Streamlit app for live prediction based on user input
+
+---
+
+## How to Run
+
+1. **Install required packages:**
+
+```bash
+pip install -r requirements.txt 
+```
+
+2. **Generate fake data:**
+```bash
+python scripts/generate_fake_data.py
+ 
+```
+
+3. **Run exploratory data analysis:**
+```bash
+python scripts/eda_analysis.py
+ 
+```
+```bash
+python scripts/group_analysis.py
+ 
+```
+4. **Train and save the model:**
+```bash
+python scripts/train_and_save_model.py
+ 
+```
+4. **Run the Streamlit app:**
+```bash
+streamlit run app.py
+
+```

@@ -1,0 +1,101 @@
+﻿CustomerID,Age,Gender,Region,ServiceType,SubscriptionLengthMonths,SatisfactionRating,Comments
+1,28,Female,Abha,Calls,20,5,Needs better coverage
+2,43,Male,Mecca,Full Packages,38,5,Internet is sometimes slow
+3,25,Female,Dammam,Calls,25,2,Prices are too high
+4,31,Male,Dammam,Calls,48,2,Excellent service
+5,52,Male,Dammam,Calls,35,4,Customer support is great
+6,40,Male,Dammam,Internet,9,1,Internet is sometimes slow
+7,18,Male,Abha,Calls,44,1,Prices are too high
+8,49,Female,Dammam,Internet,48,4,Internet is sometimes slow
+9,26,Female,Dammam,Calls,26,1,Needs better coverage
+10,42,Male,Jeddah,Internet,8,2,Excellent service
+11,65,Male,Dammam,Full Packages,18,1,Prices are too high
+12,23,Male,Mecca,Calls,11,4,Needs better coverage
+13,63,Male,Riyadh,Calls,2,3,
+14,42,Male,Dammam,Full Packages,38,2,Excellent service
+15,35,Female,Dammam,Calls,4,1,
+16,39,Female,Riyadh,Calls,48,3,Prices are too high
+17,46,Female,Mecca,Customer Support,51,5,Customer support is great
+18,18,Female,Dammam,Customer Support,47,2,Needs better coverage
+19,59,Male,Riyadh,Customer Support,43,4,
+20,23,Female,Abha,Full Packages,57,2,Internet is sometimes slow
+21,62,Female,Jeddah,Internet,31,1,
+22,35,Female,Dammam,Internet,25,1,Prices are too high
+23,29,Female,Dammam,Full Packages,57,3,Prices are too high
+24,40,Female,Jeddah,Calls,58,1,Internet is sometimes slow
+25,43,Male,Abha,Full Packages,36,3,Excellent service
+26,57,Male,Jeddah,Full Packages,20,4,Internet is sometimes slow
+27,20,Female,Jeddah,Internet,50,5,Needs better coverage
+28,46,Female,Jeddah,Calls,25,2,
+29,60,Female,Abha,Calls,5,3,Prices are too high
+30,62,Male,Jeddah,Customer Support,29,1,
+31,62,Female,Riyadh,Internet,29,5,
+32,61,Male,Abha,Internet,2,3,
+33,32,Female,Riyadh,Calls,21,5,Prices are too high
+34,18,Female,Abha,Internet,21,5,Internet is sometimes slow
+35,58,Female,Jeddah,Internet,22,5,
+36,53,Male,Dammam,Internet,23,5,
+37,18,Female,Dammam,Calls,34,2,Needs better coverage
+38,60,Male,Riyadh,Internet,47,5,
+39,19,Female,Riyadh,Calls,12,1,
+40,55,Female,Abha,Customer Support,39,5,
+41,44,Male,Mecca,Calls,33,2,Needs better coverage
+42,61,Female,Dammam,Calls,37,2,
+43,63,Female,Dammam,Customer Support,59,3,
+44,63,Male,Mecca,Customer Support,13,4,
+45,58,Male,Jeddah,Internet,45,3,Needs better coverage
+46,39,Female,Abha,Internet,21,3,
+47,41,Female,Riyadh,Customer Support,53,5,
+48,25,Male,Jeddah,Internet,21,4,Internet is sometimes slow
+49,45,Female,Dammam,Full Packages,33,3,Excellent service
+50,54,Female,Abha,Calls,17,5,Excellent service
+51,55,Female,Abha,Full Packages,24,4,
+52,56,Female,Riyadh,Full Packages,51,2,
+53,38,Female,Mecca,Calls,12,4,Prices are too high
+54,36,Female,Mecca,Internet,2,4,
+55,39,Male,Mecca,Customer Support,22,3,
+56,27,Male,Mecca,Calls,27,3,Customer support is great
+57,29,Male,Riyadh,Calls,4,2,
+58,39,Female,Jeddah,Calls,60,1,Excellent service
+59,20,Female,Dammam,Customer Support,41,2,
+60,45,Female,Riyadh,Internet,25,2,Needs better coverage
+61,30,Male,Jeddah,Internet,1,4,Needs better coverage
+62,45,Male,Riyadh,Internet,57,1,Excellent service
+63,19,Male,Mecca,Calls,13,2,Internet is sometimes slow
+64,51,Female,Riyadh,Full Packages,45,2,Customer support is great
+65,41,Male,Abha,Internet,42,5,Prices are too high
+66,36,Female,Abha,Full Packages,27,4,Excellent service
+67,59,Male,Jeddah,Internet,15,1,Needs better coverage
+68,48,Female,Jeddah,Calls,32,5,Prices are too high
+69,59,Male,Abha,Full Packages,19,2,Customer support is great
+70,29,Male,Mecca,Calls,57,4,Customer support is great
+71,56,Female,Abha,Full Packages,7,3,Prices are too high
+72,42,Female,Jeddah,Customer Support,6,2,
+73,31,Female,Riyadh,Calls,10,4,
+74,27,Female,Dammam,Calls,8,3,
+75,46,Female,Mecca,Calls,36,5,Excellent service
+76,64,Female,Abha,Calls,2,1,Needs better coverage
+77,49,Female,Dammam,Customer Support,28,4,Needs better coverage
+78,24,Male,Riyadh,Internet,28,2,Needs better coverage
+79,60,Female,Jeddah,Calls,59,4,Prices are too high
+80,60,Male,Mecca,Full Packages,60,2,
+81,40,Female,Riyadh,Customer Support,14,5,Excellent service
+82,36,Female,Mecca,Full Packages,39,4,
+83,34,Male,Jeddah,Full Packages,32,2,Needs better coverage
+84,21,Male,Riyadh,Customer Support,56,5,Internet is sometimes slow
+85,56,Female,Jeddah,Calls,25,1,
+86,49,Female,Riyadh,Customer Support,26,3,Needs better coverage
+87,30,Female,Abha,Calls,46,2,Excellent service
+88,23,Male,Abha,Full Packages,9,3,Internet is sometimes slow
+89,36,Male,Abha,Full Packages,44,4,
+90,31,Female,Mecca,Customer Support,22,5,
+91,61,Female,Dammam,Calls,30,1,Excellent service
+92,42,Female,Riyadh,Customer Support,25,2,
+93,34,Female,Riyadh,Customer Support,22,1,
+94,59,Female,Abha,Customer Support,13,1,Prices are too high
+95,60,Female,Mecca,Calls,34,3,Excellent service
+96,40,Male,Jeddah,Full Packages,40,2,Excellent service
+97,61,Male,Dammam,Internet,12,2,
+98,52,Male,Riyadh,Internet,19,1,
+99,24,Male,Jeddah,Calls,8,5,Excellent service
+100,56,Female,Dammam,Full Packages,31,4,
